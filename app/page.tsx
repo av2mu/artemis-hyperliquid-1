@@ -393,7 +393,7 @@ export default async function Overview() {
           <div className="lg:col-span-1 lg:order-2">
             <Blurb
               title="The Capital Efficiency Play"
-              description="Spot markets are tougher than perps. Binance has massive network effects: more pairs, more volume, more habit. But Hyperliquid is making a different bet. Instead of trying to match Binance's breadth, they're focusing on depth and execution quality. Hyperliquid converts perps flow → spot turnover on the same stack. As traders hedge and settle inside HL, share ticks up on core pairs first"
+              description="Spot markets are tougher than perps. Binance has massive network effects: more pairs, more volume, more habit. But Hyperliquid is making a different bet. Instead of trying to match Binance's breadth, they're focusing on depth and execution quality. Hyperliquid converts perps flow → spot turnover on the same stack. As traders hedge and settle inside HL, share ticks up on core pairs first."
             />
           </div>
         </div>
@@ -478,7 +478,7 @@ export default async function Overview() {
           <div className="lg:col-span-1 lg:order-2">
             <Blurb
               title="The Stablecoin Settlement Layer"
-              description="Think of this as the pulse of DeFi on HYPE.Stablecoins are the system’s cash and margin. On HyperEVM, a mix of USDC/USDT (clean rails), over-collateralized/synthetic dollars (USDe, feUSD, USDH, etc.), and yield-bearing dollars (e.g., T-bill tokens) sits right next to perps and spot. Funds rotate in one stack—wallet → money markets → perps/spot—so LSDFi loops (stake LST/kHYPE → borrow USD → hedge) run natively. As these balances grow, basis tightens, hedge costs fall, and each dollar does more work."
+              description="Think of this as the pulse of DeFi on HYPE. Stablecoins are the system’s cash and margin. On HyperEVM, a mix of USDC/USDT (clean rails), over-collateralized/synthetic dollars (USDe, feUSD, USDH, etc.), and yield-bearing dollars (e.g., T-bill tokens) sits right next to perps and spot. Funds rotate in one stack—wallet → money markets → perps/spot—so LSDFi loops (stake LST/kHYPE → borrow USD → hedge) run natively. As these balances grow, basis tightens, hedge costs fall, and each dollar does more work."
             />
           </div>
         </div>
