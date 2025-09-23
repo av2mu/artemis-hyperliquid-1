@@ -163,8 +163,7 @@ const Header = () => {
       label: 'Feedback',
       href: '/feedback',
       active: isActive('/feedback')
-    },
-    
+    }
   ]
 
   return (
