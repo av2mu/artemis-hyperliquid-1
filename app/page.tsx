@@ -231,7 +231,7 @@ export default async function Overview() {
                   </strong>
                 </p>
                 <br className="hidden sm:block" />
-                <p>The key concept here is providing liquidity: Once the flywheel starts spinning, there&apos;s no better place to build for finance.</p>
+                <p>The key concept here is accumulating liquidity: Once the flywheel starts spinning, there&apos;s no better place to build for finance.</p>
               </div>
               <div className="flex flex-wrap items-center gap-4 pt-2">
                 <Link href="#layer-1-derivatives">
