@@ -223,15 +223,16 @@ export default async function Overview() {
               <h1 className="text-5xl lg:text-6xl xl:text-7xl font-bold leading-[1.1] tracking-tight">
                 The Premier DeFi Operating System
               </h1>
-              <p className="text-muted-foreground text-lg leading-relaxed max-w-xl">
-                The Hyperliquid gameplan is simple:  
+              <div className="text-muted-foreground text-lg leading-relaxed max-w-xl">
+                <p>The Hyperliquid gameplan is simple:</p>
                 <p>
-                <strong className="text-foreground">
-                  Win Perps. Own Spot. Grow Apps.</strong></p>
+                  <strong className="text-foreground">
+                    Win Perps. Own Spot. Grow Apps.
+                  </strong>
+                </p>
                 <br className="hidden sm:block" />
-
-                The flywheel has already started spinning: Ready to see the evidence?
-              </p>
+                <p>The flywheel has already started spinning: Ready to see the evidence?</p>
+              </div>
               <div className="flex flex-wrap items-center gap-4 pt-2">
                 <Link href="#layer-1-derivatives">
                   <Button variant="cta" size="lg">See the data</Button>
