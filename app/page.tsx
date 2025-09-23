@@ -221,7 +221,7 @@ export default async function Overview() {
                 The Hyperliquid Thesis
               </p>
               <h1 className="text-5xl lg:text-6xl xl:text-7xl font-bold leading-[1.1] tracking-tight">
-                The Premier Onchain Liquidity Protocol
+                The House of All Finance
               </h1>
               <div className="text-muted-foreground text-lg leading-relaxed max-w-xl">
                 <p>The Hyperliquid gameplan is simple:</p>
@@ -231,7 +231,7 @@ export default async function Overview() {
                   </strong>
                 </p>
                 <br className="hidden sm:block" />
-                <p>The flywheel has already started spinning: Ready to see the evidence?</p>
+                <p>The key concept here is providing liquidity: Once the flywheel starts spinning, there&apos;s no better place to build for finance.</p>
               </div>
               <div className="flex flex-wrap items-center gap-4 pt-2">
                 <Link href="#layer-1-derivatives">
