@@ -163,7 +163,8 @@ const Header = () => {
       label: 'Feedback',
       href: '/feedback',
       active: isActive('/feedback')
-    }
+    },
+    
   ]
 
   return (
@@ -256,7 +257,7 @@ const Header = () => {
                   className="w-full flex items-center justify-center gap-1 mb-4 bg-white"
                 >
                   <MessageCircleMoreIcon />
-                  <span>Need Stablecoin Data?</span>
+                  <span>Need Hyperliquid Data?</span>
                 </Button>
               </Link>
               <Button

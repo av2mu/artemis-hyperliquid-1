@@ -221,7 +221,7 @@ export default async function Overview() {
                 The Hyperliquid Thesis
               </p>
               <h1 className="text-5xl lg:text-6xl xl:text-7xl font-bold leading-[1.1] tracking-tight">
-                The Premier DeFi Operating System
+                The Premier Onchain Liquidity Protocol
               </h1>
               <div className="text-muted-foreground text-lg leading-relaxed max-w-xl">
                 <p>The Hyperliquid gameplan is simple:</p>
